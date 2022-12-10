@@ -4,3 +4,5 @@
 Дерево репозитория:
  - Иерархическая структура работ (для https://programforyou.ru/block-diagram-redactor)
  - MS Project проект
+ - Общий документ
+ - GanttProject проект (аналог MS Project)
